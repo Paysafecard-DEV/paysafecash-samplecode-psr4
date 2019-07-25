@@ -1,0 +1,15 @@
+{
+    "name": "paysafecard/paysafecard-rest_payment-php",
+    "description": "paysafecard Payment API PHP",
+    "type": "library",
+    "require": {
+        "php": "^7.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Techsupport",
+            "email": "techsupport@paysafecard.com"
+        }
+    ]
+}
