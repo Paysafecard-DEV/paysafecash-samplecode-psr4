@@ -10,7 +10,6 @@
         }
     ],
     "require": {},
-	"minimum-stability": "dev",
 	"autoload": {
         "psr-4": {
             "paysafecard\\paysafecash-payment-php\\": "src/"
