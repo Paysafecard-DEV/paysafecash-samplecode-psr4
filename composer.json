@@ -1,5 +1,5 @@
 {
-    "name": "paysafecard/paysafecash-payment-php",
+    "name": "marcoeble/paysafecash-payment-php",
     "description": "paysafecard Payment API PHP",
     "type": "library",
     "license": "MIT",
