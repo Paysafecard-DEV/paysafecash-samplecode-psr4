@@ -1,6 +1,6 @@
 <?php
 
-namespace paysafecard\paysafecash-payment-php;
+namespace paysafecard\PaysafecashPaymentPHP;
 
 /**
  * @author
